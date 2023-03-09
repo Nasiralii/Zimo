@@ -11,7 +11,7 @@ function index() {
             <h2 className='md:text-[60px] text-[45px]'>worldwide</h2>
         </div>
         <div className='flex flex-col md:gap-4 gap-6 text-center md:items-end  '>
-            <img className='xl:w-[30%] lg:w-[40%] md:w-[50%] ' src='./images/ZIMO ZIG B.png'/>
+            <img className='xl:w-[30%] lg:w-[40%] md:w-[50%] ' src='./Images/ZIMO ZIG B.png'/>
            <div className='flex flex-col md:gap-2 gap-6'>
            <p className=''>connecting users from across the globe</p>
             <p className=''>to facilitate life's most important</p>
@@ -23,7 +23,7 @@ function index() {
             <p className='md:w-[45%] leading-8 my-5'>a combination of automation and manual curatoin our pro ageents and moderation team selects the highest quality listings on the market from across the world</p>
             </div>
     </div>
-    <img className='flex justify-center w-24 mx-auto' src='./images/arrow-down.webp'/>
+    <img className='flex justify-center w-24 mx-auto' src='./Images/arrow-down.webp'/>
     </div>
   )
 }

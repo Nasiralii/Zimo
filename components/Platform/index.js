@@ -7,7 +7,7 @@ function index() {
       </div>
       <div className="flex md:flex-row flex-col justify-between items-center xl:px-14 lg:px-8 px-4 xl:gap-56 lg:gap-20 gap-8 md:mt-28 mt-20">
         <div className="flex flex-col gap-2 xl:w-[45%]">
-          <img className="object-contain" src="./images/ZIMO B.png" />
+          <img className="object-contain" src="./Images/ZIMO B.png" />
           <p className="text-3xl">one source</p>
 
           <h3 className="text-4xl">entry tickets</h3>
@@ -17,7 +17,7 @@ function index() {
         <div className="w-full flex flex-col gap-4">
           <img
             className="xl:h-[600px] w-full rounded-2xl"
-            src="./images/Property 1821.jpg"
+            src="./Images/Property 1821.jpg"
           />
           <p className="text-center">let your dreams find you</p>
         </div>

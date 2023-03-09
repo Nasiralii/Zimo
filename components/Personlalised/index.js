@@ -14,12 +14,12 @@ function index() {
         <div className="flex md:flex-row flex-col-reverse md:gap-0- gap-8 md:justify-between text-white">
           <img
             className="opacity-10 filter w-[30%]"
-            src="./images/ZIMO ZIG W.png"
+            src="./Images/ZIMO ZIG W.png"
           />
           <div className="flex uppercase items-center gap-2 md:mt-24">
             <p>create user id</p>
            
-           <img className="rotate-180 w-8 invert grayscale-100" src="./images/arrow.png"/>
+           <img className="rotate-180 w-8 invert grayscale-100" src="./Images/arrow.png"/>
           </div>
         </div>
         <div></div>

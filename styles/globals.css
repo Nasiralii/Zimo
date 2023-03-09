@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 .pers{
-  background-image: url("/images/Yacht 1821.jpg");
+  background-image: url("/Images/Yacht 1821.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; 
 }
 .hero-bg{
-  background-image: url("/images/Zimo Pro.png");
+  background-image: url("/Images/Zimo Pro.png");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; 
