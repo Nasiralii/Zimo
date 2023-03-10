@@ -17,9 +17,10 @@ export default function Home() {
  */}
  <HeroSection/>
   <SecondSection/>
+  <OurCategoreis/>
   <Platform/>
    
-   {/* <OurCategoreis/> */}
+  
    
     <Personalalised/>
    <GlobalVision/>

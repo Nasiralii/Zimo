@@ -14,16 +14,24 @@
   background-size: cover; 
 }
 @font-face {
-  font-family:Lato Blak;
-  src: url("../public/Font/Lato-Black.woff");
+  font-family: 'Lato', sans-serif;
+  src: url("../public/Font/Lato-Regular.woff");
 }
-.lato-black { 
+.lato-Red { 
   font-family: 'Lato Blak';
 }
 @font-face {
-  font-family:Lato-Light;
+  font-family: 'Lato', sans-serif;
   src: url("../public/Font/Lato-Light.woff");
 }
 .lato-light { 
-  font-family: 'Lato Light';
+ font-family: 'Lato', sans-serif;
 }
+@font-face {
+  font-family: 'Lato', sans-serif;
+  src: url("../public/Font/Lato-Thin.woff");
+}
+.lato-thin { 
+ font-family: 'Lato', sans-serif;
+}
+
