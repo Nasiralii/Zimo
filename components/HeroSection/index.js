@@ -13,13 +13,13 @@ function index() {
         <div>
           <img className="md:w-36 w-24 flex mx-auto" src="/Images/ZIMO ZIG W.png" />
         </div>
-       <div className="md:hidden block">
-       <button className={` ${dropDown===false ? "block " : "hidden"} z-50`} onClick={()=>setDropDown(true)}> 
-        <img className="w-7 h-7 invert grayscale-100 md:hidden block" src="./Images/open.png"/></button>
-        <button className={` ${dropDown===true ? "block " : "hidden"} z-50`} onClick={()=>setDropDown(false)}> 
-        <img className="w-7 h-7 invert grayscale-100 md:hidden blcok" src="./Images/close.png"/>
+      
+       <button className={` ${dropDown===false ? "block " : "hidden"} md:hidden z-50`} onClick={()=>setDropDown(true)}> 
+        <img className="w-7 h-7 invert grayscale-100 md:hidden block z-50" src="./Images/open.png"/></button>
+        <button className={` ${dropDown===true ? "block " : "hidden"} z-50 md:hidden`} onClick={()=>setDropDown(false)}> 
+        <img className="w-7 h-7 invert z-50 grayscale-100 md:hidden block " src="./Images/close.png"/>
         </button>
-       </div>
+      
         <div className={` md:flex hidden xl:gap-8 justify-end items-center`} >
           <div className="flex gap-3 items-center">
             <div className="flex flex-col md:text-xs lato-thin text-[8px] text-right">
